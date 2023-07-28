@@ -1,4 +1,5 @@
 JotNote-App
+
 JotNote is a note-taking app developed using Android Studio and Java. It allows users to create, edit, and delete notes with different priority levels. The app uses a local database to store the notes.
 
 Key Features:
